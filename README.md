@@ -1,6 +1,6 @@
 # CSS Juggler
 
-This tool is used to juggle between CSS styles on real time. I worked on this tool for frontend web development on one of the products of [Atidot](https://www.atidot.com/) Together with Atidot's CTO, [Barak Bercovitz](https://github.com/barakber) 
+This tool is used to juggle between CSS styles on real time.
 It is written in Haskell and uses Nix and some Haskell libraries (such as Reflex) that are brought as Nix packages from NixOS.
 
 You can check the first lines of the `server-cssjuggler/Juggler.hs `:
